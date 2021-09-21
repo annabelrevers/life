@@ -1,0 +1,22 @@
+P
+E -5 Rent apartment. Pay $5,000.
+E 10 Inheritance. Collect $10,000.
+P
+L Adopt a pet. Collect a LIFE tile.
+E -5 Ski accident. Pay $5,000.
+E 10 Win marathon! Collect $10,000.
+E 10 Visit a museum. Collect $10,000;
+P Pay Day!
+E -15 Car rolls away. Pay $15,000 if not insured.
+M
+E -10 Wedding reception. Pay $10,000.
+L Happy Honeymoon! Collect a LIFE tile.
+E -2 Upgrade computer. Pay $2,000.
+E -20 Night school. Pay $20,000.
+P Pay Day. 
+E 50 Win the lottery! Collect $50,000.
+L Visit in-laws. Collect a LIFE tile.
+H 
+P Pay Day.
+C
+L Baby boy! Collect a LIFE tile.

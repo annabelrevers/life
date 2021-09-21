@@ -1,1 +1,5 @@
-# life
+# Life
+
+This project is based on the board game “LIFE.” The goal of the game is to be the player with the highest savings. Players accumulate money by traveling along the linear board, spinning a wheel to get a random number of steps forward. There are various types of spaces, some of which can earn you money and some which force you to pay money. 
+
+The game beings with each player choosing a career. The player blindly chooses a card, and their career and salary, which is randomly generated, are revealed. Spaces for earning money include Pay Day, LIFE tile spaces which earn the player money redeemed at the end of the game, and event spaces with positive outcomes.  Expenses include event spaces that require the player to pay a fee or, more significantly, buying a house. Buying a house is an example of special space at which all players must stop regardless of their spin. Players choose two cards from a deck and are given two options for a home. They choose their option, and the price is deducted from their savings. The marriage space is another one of these special spaces at which all players must stop. When all players reach the end of the board, their LIFE tiles are redeemed and savings are compared to determine the winner.

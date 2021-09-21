@@ -1,0 +1,59 @@
+P
+E -5 Rent apartment. Pay $5,000.
+E 10 Inheritance. Collect $10,000.
+P
+L Adopt a pet. Collect a LIFE tile.
+E -5 Ski accident. Pay $5,000.
+E 10 Win marathon! Collect $10,000.
+E 10 Visit a museum. Collect $10,000;
+P Pay Day!
+E -15 Car rolls away. Pay $15,000.
+M
+E -10 Wedding reception. Pay $10,000.
+L Happy Honeymoon! Collect a LIFE tile.
+E -2 Upgrade computer. Pay $2,000.
+E -20 Night school. Pay $20,000.
+P Pay Day. 
+E 50 Win the lottery! Collect $50,000.
+L Visit in-laws. Collect a LIFE tile.
+H STOP. You may buy a house. Draw a deed.
+P 
+C
+L Baby boy! Collect a LIFE tile.
+E 10 Win talent show. Collect $10,000.
+P
+L Twins! Collect a LIFE tile.
+E -20 50-yard line seats at the big game. Pay $20,000.
+L Baby Girl! Collect a LIFE tile.
+E -5 Attend Hollywood premiere. Pay $5,000.
+E -40 House flooded! Pay $40,000.
+L Return a lost wallet. Collect a LIFE tile.
+L Vote! Collect a LIFE tile.
+E -25 Buy a sailboat. Pay $25,000.
+E 30 Sell art at auction. Collect $30,000.
+L Learn CPR. Collect a LIFE tile.
+P 
+L Volunteer at a charity event. Collect a LIFE tile.
+E 10 Win a photography contest. Collect $10,000.
+E -5 Tennis Camp. Pay $5000.
+P
+P
+E -5 Day Care. Pay $5000.
+L Adopt Twins! Collect a LIFE tile.
+E -15 Invest in a Broadway musical. Pay $15,000.
+P
+L Join a health club. Collect a LIFE tile.
+E 10 Tax Refund. Collect $10,000.
+L Recycle. Collect a LIFE Tile.
+P
+E 95 TV Game Show winner! Collect $95,000.
+E 100 Win Nobel Peace Prize. Collect $100,000.
+P
+E -35 Buy a home gym. Pay $35,000.
+L Visit war memorial. Collect a LIFE tile.
+E -50 Sponsor an art exhibit. Pay $50,000.
+P
+E 50 Your racehorse wins a race! Collect $50,000.
+L Plant a tree. Collect a LIFE tile.
+P
+
